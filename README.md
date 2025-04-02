@@ -17,6 +17,9 @@ streamlit run main_app.py
 2. Adjust the confidence slider to set the detection threshold.
 3. View the processed image/video with detected objects.
 
+## Output
+![image](https://github.com/Srijan0519/Image-and-Video-Inference/blob/main/output/Screenshot%202025-04-02%20153237.jpg)
+
 ## Dependencies
 - Python 3.7+
 - Streamlit
